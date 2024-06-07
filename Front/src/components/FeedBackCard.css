@@ -1,0 +1,11 @@
+.FeedBackCard:hover{
+    scale: 1.05;
+    transition: 1s;
+    color: white;
+    cursor: pointer;
+}
+
+.FeedBackCard{
+    scale: 1;
+    transition: 1s;
+}
